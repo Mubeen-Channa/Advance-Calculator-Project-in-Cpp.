@@ -1,2 +1,2 @@
-# Advance-Calculator-Project-in-Cpp.
-Welcome to my C++ calculator! 🧮 Developed by Muhammad Mubeen Channa, this calculator does it all. From basic arithmetic (addition, subtraction, multiplication, division) to trigonometry (sine, cosine), exponentiation, and logarithmic calculations - it's got you covered. Explore the magic of math with this simple and advanced calculator! ✨
+# Advanced Calculator in C++
+This C++ repository houses an advanced calculator capable of handling a variety of mathematical operations. Developed by Muhammad Mubeen Channa, the calculator includes functions for arithmetic (addition, subtraction, multiplication, division), trigonometry (sine, cosine), exponentiation, and logarithmic calculations.
